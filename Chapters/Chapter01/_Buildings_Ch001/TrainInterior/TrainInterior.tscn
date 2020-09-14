@@ -109,6 +109,10 @@ texture = ExtResource( 5 )
 position = Vector2( 220, 135 )
 texture = ExtResource( 5 )
 
+[node name="Bench9" type="Sprite" parent="YSort/Benches"]
+position = Vector2( 220, 135 )
+texture = ExtResource( 5 )
+
 [node name="Windows" type="YSort" parent="YSort"]
 __meta__ = {
 "_edit_lock_": true
