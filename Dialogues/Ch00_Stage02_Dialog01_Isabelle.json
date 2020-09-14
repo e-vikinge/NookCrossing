@@ -1,0 +1,48 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "Isabelle",
+			"text"    : "Ok Tom, joke's over!",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Isabelle",
+			"text"    : "I bet Orville won't even let you leave!",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Orville",
+			"text"    : "Well, actually, if Tom wants to leave he can leave. I'm sorry Isabelle.",
+			"next_id" : 3,
+			"choices" : []
+		},
+
+		{
+			"id"      : 3,
+			"name"    : "Orville",
+			"text"    : "However, it looks like we have some storms rolling in, so it's going to be a while for the next plane to come in.",
+			"next_id" : 4,
+			"choices" : []
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Isabelle",
+			"text"    : "What are the odds? I'm sure it will give Tom some more time to think things over now.",
+			"next_id" : 5,
+			"choices" : []
+		},
+
+	]
+
+}

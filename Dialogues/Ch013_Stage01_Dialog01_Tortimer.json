@@ -1,0 +1,49 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "Tortimer",
+			"text"    : "Well I do have to say I am floored when I think back to how this town evolved.",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Tortimer",
+			"text"    : "We truly owe it all to you.",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Tortimer",
+			"text"    : "There are a few other things around town that were just finished, but I'll let you go find them yourself.",
+			"next_id" : 3,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 3,
+			"name"    : "Tortimer",
+			"text"    : "Again, a huge thanks for everything. This is a great community we have here.",
+			"next_id" : 4,
+			"choices" : []
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Tortimer",
+			"text"    : "I have a feeling you got a great future ahead of you..",
+			"next_id" : -1,
+			"choices" : []
+		},
+		
+		
+	]
+
+}

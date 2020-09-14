@@ -1,0 +1,81 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "Tortimer",
+			"text"    : "Morning Tom!",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Tortimer",
+			"text"    : "Glad to hear that you met Maple. She seems to be settling in well.",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Tortimer",
+			"text"    : "Now with more people in the town and your store up and running, we need a proper place for our waste.",
+			"next_id" : 3,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 3,
+			"name"    : "Tortimer",
+			"text"    : "Hopefully it isn't too close to your shop.",
+			"next_id" : 4,
+			"choices" : []
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Tortimer",
+			"text"    : "Even so, if we stay on top of maintaining it, it shouldn't be an issue.",
+			"next_id" : 5,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 5,
+			"name"    : "Tortimer",
+			"text"    : "Even so, if we stay on top of maintaining it, it shouldn't be an issue.",
+			"next_id" : 6,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 6,
+			"name"    : "Tortimer",
+			"text"    : "Ohh and get this! We are having someone else move in soon.",
+			"next_id" : 7,
+			"choices" : []
+		},
+
+		{
+			"id"      : 7,
+			"name"    : "Tortimer",
+			"text"    : "Raymond is the young gentleman's name. He was actually visiting Maple and really liked the area.",
+			"next_id" : 8,
+			"choices" : []
+		},
+
+		{
+			"id"      : 8,
+			"name"    : "Tortimer",
+			"text"    : "I imagine he will have his house set up over the next few days, so keep an eye out for him. See you around!",
+			"next_id" : -1,
+			"choices" : []
+		},
+				
+		
+	]
+
+}

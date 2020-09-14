@@ -1,0 +1,49 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "Raymond",
+			"text"    : "Tom Nook? Hey there. My name is Raymond.",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Raymond",
+			"text"    : "Fine little piece of land here. It feels like a small community already.",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Raymond",
+			"text"    : "When I stopped by to visit Maple not long ago, I knew this would be a great place to move to.",
+			"next_id" : 3,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 3,
+			"name"    : "Raymond",
+			"text"    : "Tortimer seems like a great guy and was really accommodating.",
+			"next_id" : 4,
+			"choices" : []
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Raymond",
+			"text"    : "I don't want take up too much of your time, but you are welcome to stop by my place if you'd like. Pleasure meeting you.",
+			"next_id" : -1,
+			"choices" : []
+		},
+		
+		
+	]
+
+}

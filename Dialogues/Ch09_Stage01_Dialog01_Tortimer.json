@@ -1,0 +1,66 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "Tortimer",
+			"text"    : "Well, it looks like we have a pretty good population going here now. All thanks to you so far.",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Tortimer",
+			"text"    : "You know I wouldn't be swinging around unless I didn't have something important to tell you.",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Tortimer",
+			"text"    : "So here goes - the clothing store is open today!",
+			"next_id" : 3,
+			"choices" : []
+		},
+
+		{
+			"id"      : 3,
+			"name"    : "Tortimer",
+			"text"    : "Great idea you had the other day on having the visiting Able Sisters set up shop here.",
+			"next_id" : 4,
+			"choices" : []
+		},
+		
+		
+		{
+			"id"      : 4,
+			"name"    : "Tortimer",
+			"text"    : "Their store turned out nicer than I expected.",
+			"next_id" : 5,
+			"choices" : []
+		},
+
+		{
+			"id"      : 5,
+			"name"    : "Tortimer",
+			"text"    : "Not that I had low expectations of course...",
+			"next_id" : 6,
+			"choices" : []
+		},
+
+		{
+			"id"      : 6,
+			"name"    : "Tortimer",
+			"text"    : "Well don't just stand there! Go check it out! The shop is along the beach.",
+			"next_id" : -1,
+			"choices" : []
+		},
+				
+		
+	]
+
+}

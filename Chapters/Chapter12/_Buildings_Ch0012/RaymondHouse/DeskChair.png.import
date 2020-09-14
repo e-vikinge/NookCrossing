@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/DeskChair.png-2a7aea491d008812fc7fd3c8fbdfe112.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Chapters/Chapter12/_Buildings_Ch0012/RaymondHouse/DeskChair.png"
+dest_files=[ "res://.import/DeskChair.png-2a7aea491d008812fc7fd3c8fbdfe112.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

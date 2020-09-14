@@ -1,0 +1,113 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "Isabelle",
+			"text"    : "Hey Tom, nice to see you at the beach!",
+			"next_id" : 1,
+			"choices" : [
+				
+				{
+					"text"    : "",
+					"next_id" : 1
+				},
+
+			]
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Isabelle",
+			"text"    : "Decent pile of luggage over there. Looks like someone has a little bit of lifting to do.",
+			"next_id" : 2,
+			"choices" : [
+				
+				{
+					"text"    : "",
+					"next_id" : 2
+				},
+
+			]
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Isabelle",
+			"text"    : "That's interesting... I don't see anyone else around. You wouldn't be going somewhere, would you?",
+			"next_id" : 3,
+			"choices" : [
+				
+				{
+					"text"    : "",
+					"next_id" : 3
+				},
+
+			]
+		},
+
+		{
+			"id"      : 3,
+			"name"    : "Isabelle",
+			"text"    : "You're WHAT?!",
+			"next_id" : 4,
+			"choices" : [
+				
+				{
+					"text"    : "",
+					"next_id" : 4
+				},
+
+			]
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Isabelle",
+			"text"    : "But, who will oversee the island?",
+			"next_id" : 5,
+			"choices" : [
+				
+				{
+					"text"    : "",
+					"next_id" : 5
+				},
+
+			]
+		},
+
+		{
+			"id"      : 5,
+			"name"    : "Isabelle",
+			"text"    : "Me? All by myself? I'm not so sure that's the best idea...",
+			"next_id" : 6,
+			"choices" : [
+				
+				{
+					"text"    : "",
+					"next_id" : 6
+				},
+
+			]
+		},
+
+		{
+			"id"      : 6,
+			"name"    : "Isabelle",
+			"text"    : "Perhaps you aren't feeling well from the sun. Let's go back to Resident Services and have some afternoon tea.",
+			"next_id" : -1,
+			"choices" : [
+				
+				{
+					"text"    : "",
+					"next_id" : -1
+				},
+
+			]
+		},
+
+	]
+
+}

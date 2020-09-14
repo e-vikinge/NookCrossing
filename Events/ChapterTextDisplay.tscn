@@ -1,0 +1,181 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://UI/OpenSans-Regular.ttf" type="DynamicFontData" id=1]
+
+[sub_resource type="DynamicFont" id=1]
+outline_size = 2
+outline_color = Color( 0, 0, 0, 1 )
+extra_spacing_space = 1
+font_data = ExtResource( 1 )
+
+[node name="ChapterTextDisplay" type="Node2D"]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="ChapterOne" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 103.0
+margin_top = 80.0
+margin_right = 217.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter One"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ChapterTwo" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 103.0
+margin_top = 80.0
+margin_right = 217.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter Two"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ChapterThree" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 103.0
+margin_top = 80.0
+margin_right = 227.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter Three"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ChapterFour" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 103.0
+margin_top = 80.0
+margin_right = 227.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter Four"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ChapterFive" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 103.0
+margin_top = 80.0
+margin_right = 227.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter Five"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ChapterSix" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 103.0
+margin_top = 80.0
+margin_right = 227.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter Six"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ChapterSeven" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 103.0
+margin_top = 80.0
+margin_right = 227.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter Seven"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ChapterEight" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 103.0
+margin_top = 80.0
+margin_right = 227.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter Eight"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ChapterNine" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 103.0
+margin_top = 80.0
+margin_right = 227.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter Nine"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ChapterTen" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 103.0
+margin_top = 80.0
+margin_right = 227.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter Ten"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ChapterEleven" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 103.0
+margin_top = 80.0
+margin_right = 227.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter Eleven"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ChapterTwelve" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 103.0
+margin_top = 80.0
+margin_right = 227.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter Twelve"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ChapterThirteen" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 97.0
+margin_top = 80.0
+margin_right = 244.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Chapter Thirteen"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Thanks" type="RichTextLabel" parent="CanvasLayer"]
+visible = false
+margin_left = 85.0
+margin_top = 80.0
+margin_right = 253.0
+margin_bottom = 108.0
+custom_fonts/normal_font = SubResource( 1 )
+text = " Thanks For Playing!"
+__meta__ = {
+"_edit_use_anchors_": false
+}

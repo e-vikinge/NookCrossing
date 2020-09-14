@@ -1,0 +1,72 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "Tortimer",
+			"text"    : "Howdy!",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Tortimer",
+			"text"    : "How have things been? The shop looks good, and Maple and Raymond seemed to settle in nicely.",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Tortimer",
+			"text"    : "Which leaves for more good news, the Post Office is finally finished!",
+			"next_id" : 3,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 3,
+			"name"    : "Tortimer",
+			"text"    : "What do you mean what... ?",
+			"next_id" : 4,
+			"choices" : []
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Tortimer",
+			"text"    : "Ah, you must have been so busy you forgot that we talked about the construction.",
+			"next_id" : 5,
+			"choices" : []
+		},
+
+		{
+			"id"      : 5,
+			"name"    : "Tortimer",
+			"text"    : "Well go check it out now! It's up in the top left corner of town. Turned out real nice. See ya around.",
+			"next_id" : 6,
+			"choices" : []
+		},
+
+		{
+			"id"      : 6,
+			"name"    : "Tortimer",
+			"text"    : "Ohh yes, and you guessed it - we have another person moving in!",
+			"next_id" : 7,
+			"choices" : []
+		},
+
+		{
+			"id"      : 7,
+			"name"    : "Tortimer",
+			"text"    : "Didn't catch their name this time, but I will send them your way when they show up.",
+			"next_id" : -1,
+			"choices" : []
+		},		
+		
+	]
+
+}

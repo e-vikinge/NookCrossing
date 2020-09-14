@@ -1,0 +1,49 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "Erik",
+			"text"    : "Ah Mr. Nook. I believe Tortimer told you I'd be coming along. How's it going?",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Erik",
+			"text"    : "That's good to hear.",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Erik",
+			"text"    : "I'm pretty pleased with how this town is laid out. Everything is so close together, not a lot of walking. Perfect.",
+			"next_id" : 3,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 3,
+			"name"    : "Erik",
+			"text"    : "Well I should probably go catch my afternoon nap.",
+			"next_id" : 4,
+			"choices" : []
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Erik",
+			"text"    : "I do sleep a lot, but if you ever want to pay a visit, my house is just below Raymond's house. Take it easy.",
+			"next_id" : -1,
+			"choices" : []
+		},
+		
+		
+	]
+
+}

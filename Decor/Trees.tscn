@@ -1,0 +1,955 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Decor/Tree2.png" type="Texture" id=1]
+
+[node name="Trees" type="YSort"]
+
+[node name="Tree2" type="Sprite" parent="."]
+position = Vector2( 27, 146 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree37" type="Sprite" parent="."]
+position = Vector2( 34, 177 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree38" type="Sprite" parent="."]
+position = Vector2( 35, 274 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree42" type="Sprite" parent="."]
+position = Vector2( 62, 311 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree48" type="Sprite" parent="."]
+position = Vector2( 69, 268 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree43" type="Sprite" parent="."]
+position = Vector2( 23, 321 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree44" type="Sprite" parent="."]
+position = Vector2( 273, 155 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree45" type="Sprite" parent="."]
+position = Vector2( 260, 296 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree47" type="Sprite" parent="."]
+position = Vector2( 297, 314 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree105" type="Sprite" parent="."]
+position = Vector2( 452, 352 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree123" type="Sprite" parent="."]
+position = Vector2( 486, 391 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree46" type="Sprite" parent="."]
+position = Vector2( 237, 379 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree49" type="Sprite" parent="."]
+position = Vector2( 311, 138 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree50" type="Sprite" parent="."]
+position = Vector2( 326, 164 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree53" type="Sprite" parent="."]
+position = Vector2( 804, 107 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree93" type="Sprite" parent="."]
+position = Vector2( 690, 226 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree99" type="Sprite" parent="."]
+position = Vector2( 793, 227 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree111" type="Sprite" parent="."]
+position = Vector2( 822, 360 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree124" type="Sprite" parent="."]
+position = Vector2( 955, 381 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree125" type="Sprite" parent="."]
+position = Vector2( 1086, 373 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree127" type="Sprite" parent="."]
+position = Vector2( 1167, 441 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree130" type="Sprite" parent="."]
+position = Vector2( 1207, 540 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree194" type="Sprite" parent="."]
+position = Vector2( 1232, 505 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree131" type="Sprite" parent="."]
+position = Vector2( 1124, 452 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree132" type="Sprite" parent="."]
+position = Vector2( 1060, 704 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree133" type="Sprite" parent="."]
+position = Vector2( 1226, 603 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree140" type="Sprite" parent="."]
+position = Vector2( 1229, 667 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree195" type="Sprite" parent="."]
+position = Vector2( 1185, 640 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree154" type="Sprite" parent="."]
+position = Vector2( 1161, 707 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree155" type="Sprite" parent="."]
+position = Vector2( 1202, 755 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree181" type="Sprite" parent="."]
+position = Vector2( 1119, 743 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree183" type="Sprite" parent="."]
+position = Vector2( 1199, 817 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree141" type="Sprite" parent="."]
+position = Vector2( 1127, 669 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree134" type="Sprite" parent="."]
+position = Vector2( 890, 408 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree136" type="Sprite" parent="."]
+position = Vector2( 930, 454 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree137" type="Sprite" parent="."]
+position = Vector2( 880, 444 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree160" type="Sprite" parent="."]
+position = Vector2( 1008, 555 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree156" type="Sprite" parent="."]
+position = Vector2( 617, 564 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree182" type="Sprite" parent="."]
+position = Vector2( 1072, 646 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree157" type="Sprite" parent="."]
+position = Vector2( 610, 468 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree158" type="Sprite" parent="."]
+position = Vector2( 570, 439 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree159" type="Sprite" parent="."]
+position = Vector2( 529, 354 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree138" type="Sprite" parent="."]
+position = Vector2( 952, 424 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree139" type="Sprite" parent="."]
+position = Vector2( 1071, 567 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree135" type="Sprite" parent="."]
+position = Vector2( 889, 345 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree129" type="Sprite" parent="."]
+position = Vector2( 1133, 418 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree128" type="Sprite" parent="."]
+position = Vector2( 1197, 401 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree189" type="Sprite" parent="."]
+position = Vector2( 1224, 328 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree191" type="Sprite" parent="."]
+position = Vector2( 1235, 277 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree126" type="Sprite" parent="."]
+position = Vector2( 1142, 328 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree100" type="Sprite" parent="."]
+position = Vector2( 559, 278 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree112" type="Sprite" parent="."]
+position = Vector2( 488, 301 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree98" type="Sprite" parent="."]
+position = Vector2( 740, 258 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree94" type="Sprite" parent="."]
+position = Vector2( 530, 236 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree95" type="Sprite" parent="."]
+position = Vector2( 513, 141 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree55" type="Sprite" parent="."]
+position = Vector2( 784, 142 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree96" type="Sprite" parent="."]
+position = Vector2( 993, 267 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree101" type="Sprite" parent="."]
+position = Vector2( 1086, 286 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree102" type="Sprite" parent="."]
+position = Vector2( 1177, 284 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree153" type="Sprite" parent="."]
+position = Vector2( 1193, 235 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree151" type="Sprite" parent="."]
+position = Vector2( 1181, 121 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree185" type="Sprite" parent="."]
+position = Vector2( 1228, 154 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree188" type="Sprite" parent="."]
+position = Vector2( 1240, 215 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree152" type="Sprite" parent="."]
+position = Vector2( 1133, 132 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree103" type="Sprite" parent="."]
+position = Vector2( 1023, 339 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree104" type="Sprite" parent="."]
+position = Vector2( 961, 320 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree97" type="Sprite" parent="."]
+position = Vector2( 725, 151 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree92" type="Sprite" parent="."]
+position = Vector2( 739, 96 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree51" type="Sprite" parent="."]
+position = Vector2( 278, 114 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree52" type="Sprite" parent="."]
+position = Vector2( 61, 132 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree41" type="Sprite" parent="."]
+position = Vector2( 24, 238 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree40" type="Sprite" parent="."]
+position = Vector2( 248, 328 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree39" type="Sprite" parent="."]
+position = Vector2( 167, 280 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree106" type="Sprite" parent="."]
+position = Vector2( 161, 334 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree107" type="Sprite" parent="."]
+position = Vector2( 209, 314 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree108" type="Sprite" parent="."]
+position = Vector2( 123, 292 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree109" type="Sprite" parent="."]
+position = Vector2( 190, 355 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree120" type="Sprite" parent="."]
+position = Vector2( 130, 568 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree110" type="Sprite" parent="."]
+position = Vector2( 23, 403 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree113" type="Sprite" parent="."]
+position = Vector2( 34, 477 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree114" type="Sprite" parent="."]
+position = Vector2( 70, 436 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree115" type="Sprite" parent="."]
+position = Vector2( 93, 568 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree116" type="Sprite" parent="."]
+position = Vector2( 55, 548 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree117" type="Sprite" parent="."]
+position = Vector2( 39, 603 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree118" type="Sprite" parent="."]
+position = Vector2( 86, 601 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree119" type="Sprite" parent="."]
+position = Vector2( 140, 610 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree142" type="Sprite" parent="."]
+position = Vector2( 27, 661 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree143" type="Sprite" parent="."]
+position = Vector2( 42, 792 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree144" type="Sprite" parent="."]
+position = Vector2( 157, 661 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree145" type="Sprite" parent="."]
+position = Vector2( 29, 525 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree146" type="Sprite" parent="."]
+position = Vector2( 337, 339 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree166" type="Sprite" parent="."]
+position = Vector2( 324, 377 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree149" type="Sprite" parent="."]
+position = Vector2( 263, 646 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree165" type="Sprite" parent="."]
+position = Vector2( 305, 610 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree167" type="Sprite" parent="."]
+position = Vector2( 317, 656 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree171" type="Sprite" parent="."]
+position = Vector2( 315, 705 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree172" type="Sprite" parent="."]
+position = Vector2( 141, 824 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree173" type="Sprite" parent="."]
+position = Vector2( 279, 747 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree174" type="Sprite" parent="."]
+position = Vector2( 584, 698 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree176" type="Sprite" parent="."]
+position = Vector2( 499, 732 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree177" type="Sprite" parent="."]
+position = Vector2( 532, 690 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree178" type="Sprite" parent="."]
+position = Vector2( 338, 743 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree179" type="Sprite" parent="."]
+position = Vector2( 615, 740 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree180" type="Sprite" parent="."]
+position = Vector2( 624, 797 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree175" type="Sprite" parent="."]
+position = Vector2( 546, 583 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree168" type="Sprite" parent="."]
+position = Vector2( 255, 700 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree169" type="Sprite" parent="."]
+position = Vector2( 357, 578 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree170" type="Sprite" parent="."]
+position = Vector2( 406, 552 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree161" type="Sprite" parent="."]
+position = Vector2( 397, 519 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree162" type="Sprite" parent="."]
+position = Vector2( 441, 503 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree163" type="Sprite" parent="."]
+position = Vector2( 514, 544 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree164" type="Sprite" parent="."]
+position = Vector2( 454, 533 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree150" type="Sprite" parent="."]
+position = Vector2( 243, 600 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree147" type="Sprite" parent="."]
+position = Vector2( 155, 377 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree148" type="Sprite" parent="."]
+position = Vector2( 287, 352 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree121" type="Sprite" parent="."]
+position = Vector2( 109, 466 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree122" type="Sprite" parent="."]
+position = Vector2( 111, 527 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree3" type="Sprite" parent="."]
+position = Vector2( 47, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree35" type="Sprite" parent="."]
+position = Vector2( 50, 24 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree11" type="Sprite" parent="."]
+position = Vector2( 178, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree18" type="Sprite" parent="."]
+position = Vector2( 439, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree34" type="Sprite" parent="."]
+position = Vector2( 187, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree33" type="Sprite" parent="."]
+position = Vector2( 448, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree85" type="Sprite" parent="."]
+position = Vector2( 577, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree84" type="Sprite" parent="."]
+position = Vector2( 580, 24 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree83" type="Sprite" parent="."]
+position = Vector2( 708, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree82" type="Sprite" parent="."]
+position = Vector2( 969, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree91" type="Sprite" parent="."]
+position = Vector2( 1098, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree193" type="Sprite" parent="."]
+position = Vector2( 1227, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree81" type="Sprite" parent="."]
+position = Vector2( 717, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree80" type="Sprite" parent="."]
+position = Vector2( 978, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree90" type="Sprite" parent="."]
+position = Vector2( 1107, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree192" type="Sprite" parent="."]
+position = Vector2( 1236, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree4" type="Sprite" parent="."]
+position = Vector2( 14, 43 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree36" type="Sprite" parent="."]
+position = Vector2( 19, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree5" type="Sprite" parent="."]
+position = Vector2( 81, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree6" type="Sprite" parent="."]
+position = Vector2( 112, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree7" type="Sprite" parent="."]
+position = Vector2( 146, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree10" type="Sprite" parent="."]
+position = Vector2( 212, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree9" type="Sprite" parent="."]
+position = Vector2( 243, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree8" type="Sprite" parent="."]
+position = Vector2( 277, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree15" type="Sprite" parent="."]
+position = Vector2( 407, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree14" type="Sprite" parent="."]
+position = Vector2( 473, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree13" type="Sprite" parent="."]
+position = Vector2( 504, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree12" type="Sprite" parent="."]
+position = Vector2( 538, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree19" type="Sprite" parent="."]
+position = Vector2( 308, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree32" type="Sprite" parent="."]
+position = Vector2( 90, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree31" type="Sprite" parent="."]
+position = Vector2( 121, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree30" type="Sprite" parent="."]
+position = Vector2( 155, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree29" type="Sprite" parent="."]
+position = Vector2( 221, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree28" type="Sprite" parent="."]
+position = Vector2( 252, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree27" type="Sprite" parent="."]
+position = Vector2( 286, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree24" type="Sprite" parent="."]
+position = Vector2( 416, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree23" type="Sprite" parent="."]
+position = Vector2( 482, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree22" type="Sprite" parent="."]
+position = Vector2( 513, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree21" type="Sprite" parent="."]
+position = Vector2( 547, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree20" type="Sprite" parent="."]
+position = Vector2( 317, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree79" type="Sprite" parent="."]
+position = Vector2( 611, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree78" type="Sprite" parent="."]
+position = Vector2( 642, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree77" type="Sprite" parent="."]
+position = Vector2( 676, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree76" type="Sprite" parent="."]
+position = Vector2( 742, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree75" type="Sprite" parent="."]
+position = Vector2( 773, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree74" type="Sprite" parent="."]
+position = Vector2( 807, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree73" type="Sprite" parent="."]
+position = Vector2( 872, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree72" type="Sprite" parent="."]
+position = Vector2( 903, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree71" type="Sprite" parent="."]
+position = Vector2( 937, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree70" type="Sprite" parent="."]
+position = Vector2( 1003, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree69" type="Sprite" parent="."]
+position = Vector2( 1034, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree89" type="Sprite" parent="."]
+position = Vector2( 1066, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree88" type="Sprite" parent="."]
+position = Vector2( 1132, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree87" type="Sprite" parent="."]
+position = Vector2( 1163, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree190" type="Sprite" parent="."]
+position = Vector2( 1195, 41 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree67" type="Sprite" parent="."]
+position = Vector2( 838, 48 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree66" type="Sprite" parent="."]
+position = Vector2( 620, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree65" type="Sprite" parent="."]
+position = Vector2( 651, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree64" type="Sprite" parent="."]
+position = Vector2( 685, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree63" type="Sprite" parent="."]
+position = Vector2( 751, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree62" type="Sprite" parent="."]
+position = Vector2( 782, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree61" type="Sprite" parent="."]
+position = Vector2( 816, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree60" type="Sprite" parent="."]
+position = Vector2( 881, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree59" type="Sprite" parent="."]
+position = Vector2( 912, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree58" type="Sprite" parent="."]
+position = Vector2( 946, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree57" type="Sprite" parent="."]
+position = Vector2( 1012, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree86" type="Sprite" parent="."]
+position = Vector2( 1075, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree68" type="Sprite" parent="."]
+position = Vector2( 1141, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree56" type="Sprite" parent="."]
+position = Vector2( 1043, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree187" type="Sprite" parent="."]
+position = Vector2( 1141, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree186" type="Sprite" parent="."]
+position = Vector2( 1204, 21 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree184" type="Sprite" parent="."]
+position = Vector2( 1172, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )
+
+[node name="Tree54" type="Sprite" parent="."]
+position = Vector2( 847, 28 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -15 )

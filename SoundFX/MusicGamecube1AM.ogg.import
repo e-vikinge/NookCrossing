@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/MusicGamecube1AM.ogg-79bbc26b74b4bfae6ffcc6a978192d63.oggstr"
+
+[deps]
+
+source_file="res://SoundFX/MusicGamecube1AM.ogg"
+dest_files=[ "res://.import/MusicGamecube1AM.ogg-79bbc26b74b4bfae6ffcc6a978192d63.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,122 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "???",
+			"text"    : "Hey there Mr.!",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Tortimer",
+			"text"    : "I'm Tortimer! Rover just called me a few minutes ago.",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Tortimer",
+			"text"    : "It was a short notice, but I managed to get a tent set up for you, as I understand you will have a shop built soon.",
+			"next_id" : 3,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 3,
+			"name"    : "Tortimer",
+			"text"    : "Oh me? I've lived in these woods for as long as I can remember.",
+			"next_id" : 4,
+			"choices" : []
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Tortimer",
+			"text"    : "And my memory really depends on the day. Hehe.",
+			"next_id" : 5,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 5,
+			"name"    : "Tortimer",
+			"text"    : "So about this business.. I suppose you should do mighty fine with the train tracks right here.",
+			"next_id" : 6,
+			"choices" : []
+		},
+
+		{
+			"id"      : 6,
+			"name"    : "Tortimer",
+			"text"    : "The train does come by on the regular too.",
+			"next_id" : 7,
+			"choices" : []
+		},
+
+		{
+			"id"      : 7,
+			"name"    : "Tortimer",
+			"text"    : "It will be perfect for supplying them with all the raw materials we have.",
+			"next_id" : 8,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 8,
+			"name"    : "Tortimer",
+			"text"    : "And on a different note, let's not forget to mention the beauty of this area!",
+			"next_id" : 9,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 9,
+			"name"    : "Tortimer",
+			"text"    : "While it can get lonesome at times, there is nothing like the peacefullness of this place.",
+			"next_id" : 10,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 10,
+			"name"    : "Tortimer",
+			"text"    : "If you follow this road actually, my house is just at the end of it. Feel free to stop by whenever.",
+			"next_id" : 11,
+			"choices" : []
+		},
+
+		{
+			"id"      : 11,
+			"name"    : "Tortimer",
+			"text"    : "As for your tent, it's just over to the right here.",
+			"next_id" : 12,
+			"choices" : []
+		},
+		
+		
+		{
+			"id"      : 12,
+			"name"    : "Tortimer",
+			"text"    : "At that, I'll let you go out and explore. Remember to go to your bed in your tent to rest up as well.",
+			"next_id" : 13,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 13,
+			"name"    : "Tortimer",
+			"text"    : "Nice meeting you and I'll see you around!",
+			"next_id" : -1,
+			"choices" : []
+		},
+		
+		
+	]
+
+}

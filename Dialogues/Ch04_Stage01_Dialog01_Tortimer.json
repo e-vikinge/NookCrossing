@@ -1,0 +1,73 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "Maple",
+			"text"    : "Hey there! You must be Tom, right?",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Maple",
+			"text"    : "I'm not sure if Tortimer told you, but I'm Maple. It's nice to meet you!",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Maple",
+			"text"    : "Nice shop you have here too. When I was passing by on the train to visit my family, I saw you out here working.",
+			"next_id" : 3,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 3,
+			"name"    : "Maple",
+			"text"    : "I'm glad it came out so nice, and I am looking forward to seeing what you have for sale.",
+			"next_id" : 4,
+			"choices" : []
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Maple",
+			"text"    : "The convience of everything is going to be so nice too.",
+			"next_id" : 5,
+			"choices" : []
+		},
+
+		{
+			"id"      : 5,
+			"name"    : "Maple",
+			"text"    : "The convience of everything is going to be so nice too.",
+			"next_id" : 6,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 6,
+			"name"    : "Maple",
+			"text"    : "Also, I moved in on the far east side of town. So if you ever want to stop by, just head to the left and across the brigde.",
+			"next_id" : 7,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 7,
+			"name"    : "Maple",
+			"text"    : "Feel free to swing by anytime!",
+			"next_id" : -1,
+			"choices" : []
+		},
+		
+		
+	]
+
+}

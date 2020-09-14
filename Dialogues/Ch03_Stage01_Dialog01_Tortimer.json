@@ -1,0 +1,57 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "Tortimer",
+			"text"    : "Well would you look at that! The shop looks great!",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Tortimer",
+			"text"    : "And you even built a back room! Of course! Where else would you sleep, now that you took down the tent.",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Tortimer",
+			"text"    : "That hard work pays off.. Oh yeah! I just remembered that we will in fact have someone new moving here soon.",
+			"next_id" : 3,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 3,
+			"name"    : "Tortimer",
+			"text"    : "Her name is Maple. The other day she stopped by briefly to check out the area while you were working.",
+			"next_id" : 4,
+			"choices" : []
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Tortimer",
+			"text"    : "She said didn't want to disturb you but she will come say hi when she moves in.",
+			"next_id" : 5,
+			"choices" : []
+		},
+
+		{
+			"id"      : 5,
+			"name"    : "Tortimer",
+			"text"    : "Until then have a good one. Nice job again.",
+			"next_id" : -1,
+			"choices" : []
+		},
+				
+		
+	]
+
+}

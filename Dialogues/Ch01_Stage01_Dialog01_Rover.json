@@ -1,0 +1,97 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "???",
+			"text"    : "Excuse me, do you mind if I sit here?",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "???",
+			"text"    : "Great! I figured you would be friendly.",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "???",
+			"text"    : "By the way, I'm Rover. It feels like I spend all of my days on this train.",
+			"next_id" : 3,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 3,
+			"name"    : "Rover",
+			"text"    : "I do have to say it never gets old!",
+			"next_id" : 4,
+			"choices" : []
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Rover",
+			"text"    : "Say, it doesn't seem like you have much luggage with you. Where are you visiting?",
+			"next_id" : 5,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 5,
+			"name"    : "Rover",
+			"text"    : "Moving eh? My apologies. How very embarrassing this is for me. Let me try that again - where might you be moving to?",
+			"next_id" : 6,
+			"choices" : []
+		},
+
+		{
+			"id"      : 6,
+			"name"    : "Rover",
+			"text"    : "Ah yes, I know that place! It's very beautiful. Plenty of trees and - ",
+			"next_id" : 7,
+			"choices" : []
+		},
+
+		{
+			"id"      : 7,
+			"name"    : "Rover",
+			"text"    : "WAIT! There is actually nothing there. As in, there are no houses, no shops, no nothing! Except for one guy.",
+			"next_id" : 8,
+			"choices" : []
+		},
+
+		{
+			"id"      : 8,
+			"name"    : "Rover",
+			"text"    : "That one guy happens to be a dear friend of mine and I believe he will lend a helping hand to a fellow animal.",
+			"next_id" : 9,
+			"choices" : []
+		},
+
+		{
+			"id"      : 9,
+			"name"    : "Rover",
+			"text"    : "Looks like your stop is coming up. Let me make a quick phone call to let my friend know you are coming.",
+			"next_id" : 10,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 10,
+			"name"    : "Rover",
+			"text"    : "He will set you up with temporary housing. When you are ready just hop off the train and he will greet you! Nice meeting you.",
+			"next_id" : -1,
+			"choices" : []
+		},
+
+		
+	]
+
+}

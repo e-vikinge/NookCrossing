@@ -1,0 +1,49 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "Tortimer",
+			"text"    : "Alright alright, go say hi to Copper and Booker down at the new station.",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Tortimer",
+			"text"    : "We do have one more person who is interested in coming here.",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Tortimer",
+			"text"    : "A gentleman by the name of Blathers wishes to build an entire museum!",
+			"next_id" : 3,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 3,
+			"name"    : "Tortimer",
+			"text"    : "Not only can people see what is on display, but they will be able to make donations as well.",
+			"next_id" : 4,
+			"choices" : []
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Tortimer",
+			"text"    : "I haven't been more excited for some more construction to take place. This is truly awesome.",
+			"next_id" : -1,
+			"choices" : []
+		},
+		
+		
+	]
+
+}

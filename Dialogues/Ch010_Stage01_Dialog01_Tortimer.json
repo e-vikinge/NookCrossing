@@ -1,0 +1,49 @@
+{
+	"Force" : 0,
+	"Random": 0,
+	"Nodes" :
+	 [
+		{
+			"id"      : 0,
+			"name"    : "Tortimer",
+			"text"    : "Alright, I have to hand it to you again, stellar idea on an official train station.",
+			"next_id" : 1,
+			"choices" : []
+		},
+
+		{
+			"id"      : 1,
+			"name"    : "Tortimer",
+			"text"    : "The quality and timeliness is breathtaking! No more of that dinky little wooden platform.",
+			"next_id" : 2,
+			"choices" : []
+		},
+
+		{
+			"id"      : 2,
+			"name"    : "Tortimer",
+			"text"    : "Go check it out when you get a chance.",
+			"next_id" : 3,
+			"choices" : []
+		},
+		
+		{
+			"id"      : 3,
+			"name"    : "Tortimer",
+			"text"    : "Ohh right, I found two stern but loyal pups for some security around here. Not long until they set up their station.",
+			"next_id" : 4,
+			"choices" : []
+		},
+
+		{
+			"id"      : 4,
+			"name"    : "Tortimer",
+			"text"    : "Until then, I'll let you get back to work. Don't push yourself too hard.",
+			"next_id" : -1,
+			"choices" : []
+		},
+		
+		
+	]
+
+}
